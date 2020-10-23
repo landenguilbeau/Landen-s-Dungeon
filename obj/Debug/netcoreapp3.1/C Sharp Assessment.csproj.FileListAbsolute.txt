@@ -1,0 +1,13 @@
+C:\Users\Lande\source\repos\C Sharp Assessment\obj\Debug\netcoreapp3.1\C Sharp Assessment.csprojAssemblyReference.cache
+C:\Users\Lande\source\repos\C Sharp Assessment\obj\Debug\netcoreapp3.1\C Sharp Assessment.AssemblyInfoInputs.cache
+C:\Users\Lande\source\repos\C Sharp Assessment\obj\Debug\netcoreapp3.1\C Sharp Assessment.AssemblyInfo.cs
+C:\Users\Lande\source\repos\C Sharp Assessment\obj\Debug\netcoreapp3.1\C Sharp Assessment.csproj.CoreCompileInputs.cache
+C:\Users\Lande\source\repos\C Sharp Assessment\bin\Debug\netcoreapp3.1\C Sharp Assessment.exe
+C:\Users\Lande\source\repos\C Sharp Assessment\bin\Debug\netcoreapp3.1\C Sharp Assessment.deps.json
+C:\Users\Lande\source\repos\C Sharp Assessment\bin\Debug\netcoreapp3.1\C Sharp Assessment.runtimeconfig.json
+C:\Users\Lande\source\repos\C Sharp Assessment\bin\Debug\netcoreapp3.1\C Sharp Assessment.runtimeconfig.dev.json
+C:\Users\Lande\source\repos\C Sharp Assessment\bin\Debug\netcoreapp3.1\C Sharp Assessment.dll
+C:\Users\Lande\source\repos\C Sharp Assessment\bin\Debug\netcoreapp3.1\C Sharp Assessment.pdb
+C:\Users\Lande\source\repos\C Sharp Assessment\obj\Debug\netcoreapp3.1\C Sharp Assessment.dll
+C:\Users\Lande\source\repos\C Sharp Assessment\obj\Debug\netcoreapp3.1\C Sharp Assessment.pdb
+C:\Users\Lande\source\repos\C Sharp Assessment\obj\Debug\netcoreapp3.1\C Sharp Assessment.genruntimeconfig.cache
